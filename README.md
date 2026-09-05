@@ -1,6 +1,6 @@
-# Professional Staff & Server Management Profile
+# Professional Staff & Server Management Profile 
 
-## About Me
+##About me
 
 I am an experienced Minecraft staff member, server manager, and community administrator with experience across moderation, development, media, ticket support, and server ownership.
 

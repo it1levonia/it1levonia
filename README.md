@@ -1,101 +1,149 @@
-# Professional Staff & Server Management Profile 
+<div align="center">
 
-##About me
+# ⚡ CHILLKB
 
-I am an experienced Minecraft staff member, server manager, and community administrator with experience across moderation, development, media, ticket support, and server ownership.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=FF3030&center=true&vCenter=true&width=900&lines=Chillkb;Minecraft+Developer;Java+Developer;Discord+Bot+Developer;Minecraft+Server+Developer;Building+Fast+%26+Clean+Software" alt="Typing SVG" />
 
-I mainly focus on **Ranked BedWars communities**, staff management, player support, server development, and keeping communities organized and professional.
+### 🎮 Minecraft Developer • ☕ Java Developer • 🤖 Discord Bot Developer
 
-I am especially confident with **ticket handling**. I can deal with player reports, support questions, staff-related issues, appeals, rule violations, and general server problems while staying calm and professional. I always try to understand the situation properly before making a decision instead of rushing to conclusions.
+**Building Minecraft plugins, server systems, Discord bots, and backend tools with a focus on performance and clean code.**
 
-## What I Do
+<img src="https://komarev.com/ghpvc/?username=it1levonia&label=PROFILE+VIEWS&style=for-the-badge&color=red" />
 
-* Ticket handling and player support
-* Moderation and rule enforcement
-* Staff management
-* Minecraft server development
-* Plugin configuration and troubleshooting
-* Community management
-* Ranked BedWars management
-* Media and server promotion
-* Handling reports and appeals
-* Helping resolve player/staff conflicts
-* Finding and fixing server issues
-* Organizing staff teams and permissions
-* Managing Discord and Minecraft communities
-* Working on new server features and projects
+</div>
 
-## Current Work
+---
 
-I am currently the **Owner of DeroMC**, a Ranked BedWars project that I am actively developing.
+# 👨‍💻 About Me
 
-Right now, most of my work is focused on the **DeroMC Ranked BedWars project**, including server development, staff management, moderation systems, community growth, Ranked BedWars features, and future updates.
+I'm **Chillkb**, a developer mainly focused on the Minecraft ecosystem.
 
-I have also owned and worked on other Minecraft projects, which has given me experience with both the technical and management side of running a server.
+I enjoy working on Minecraft servers, custom plugins, game systems, Discord integrations, APIs, and performance optimization.
 
-## Previous Experience
+* 🎮 Minecraft plugin development
+* ☕ Java development
+* 🧱 Minecraft 1.8.9 server development
+* ⚔️ BedWars & PvP systems
+* 🤖 Discord bot development
+* 🔌 APIs & integrations
+* 🗄️ Databases & configuration systems
+* ⚙️ Server optimization
+* 🛠️ Backend development
+* 📚 Always learning and improving
 
-### FakePixel
+---
 
-**Role:** Wooster / Staff
-Worked with the server team and helped with server-related tasks, community issues, and general staff responsibilities.
+# 🛠️ What I Build
 
-### CloudPixel
+### 🎮 Minecraft
 
-**Role:** Helper
-Worked as a Helper assisting players, answering questions, handling community issues, and supporting the moderation team.
+* Custom Minecraft plugins
+* BedWars systems
+* Ranked BedWars systems
+* Practice systems
+* PvP mechanics
+* Scoreboards
+* Leaderboards
+* Custom commands
+* Player statistics
+* Server utilities
+* Lobby systems
+* Moderation systems
+* Discord integrations
 
-**Status:** Project discontinued.
+### 🤖 Discord
 
-### Minevia
+* Discord bots
+* Ticket systems
+* Moderation systems
+* Server utilities
+* Minecraft integrations
+* Automation
+* Webhooks
+* API integrations
 
-**Roles:** Moderator & Developer
-Worked in both moderation and development. This gave me experience with handling players and tickets while also working on technical/server-side problems.
+### ⚡ Backend
 
-### AyorMC
+* Java applications
+* REST APIs
+* Database systems
+* Configuration systems
+* Performance-focused backend tools
 
-**Roles:** Media & Moderator
-Worked with both the media and moderation teams. I helped with community moderation while also contributing through media-related work.
+---
 
-I later **resigned from AyorMC**.
+# 💻 Tech Stack
 
-### Nexora
+<div align="center">
 
-**Role:** Owner
-Managed the server as an Owner and worked on development, staff organization, community management, and server planning.
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql,mongodb,git,github,linux,vscode,idea&perline=6" />
 
-I later **discontinued the Nexora project**.
+</div>
 
-### DeroMC
+### Technologies
 
-**Current Role:** Owner
-DeroMC is my current main project. It is focused primarily on **Ranked BedWars**, with more features and development currently in progress.
+`Java` • `Minecraft` • `Spigot` • `Paper` • `Bukkit` • `JavaScript` • `Node.js` • `MySQL` • `MongoDB` • `Git` • `Linux` • `REST APIs`
 
-## Professional Skills
+---
 
-I have experience working in several different positions, so I understand how a server works from multiple perspectives instead of only knowing one staff role.
+# 🎯 Minecraft Development
 
-My strongest areas include **ticket handling, moderation, server management, development, and staff coordination**.
+```text
+Minecraft Java Edition
+├── Spigot / Paper
+├── Minecraft 1.8.9
+├── BedWars
+├── Ranked BedWars
+├── Practice
+├── PvP Systems
+├── Scoreboards
+├── Leaderboards
+├── Player Statistics
+├── Permissions
+├── Discord Integration
+└── Server Optimization
+```
 
-When dealing with tickets or reports, I try to:
+---
 
-* Listen to both sides before deciding.
-* Check evidence carefully.
-* Stay respectful even if the player is angry.
-* Follow the server's rules and punishment guidelines.
-* Escalate situations when a higher staff member is required.
-* Avoid abusing permissions or making decisions based on personal relationships.
-* Keep staff matters professional and confidential when necessary.
+# 🌐 Connect With Me
 
-I am also comfortable taking responsibility for projects, organizing teams, solving technical problems, and helping communities improve over time.
+<div align="center">
 
-## Servers I Have Worked At
+<a href="https://github.com/it1levonia">
+  <img src="https://img.shields.io/badge/GitHub-it1levonia-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**DeroMC** — Owner *(Current)*
-**Nexora** — Owner *(Discontinued)*
-**Minevia** — Moderator & Developer
-**AyorMC** — Media & Moderator *(Resigned)*
-**CloudPixel** — Helper *(Discontinued)*
-**FakePixel** — Wooster / Staff
+<a href="YOUR_DISCORD_LINK">
+  <img src="https://img.shields.io/badge/Discord-Chillkb-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-My current priority is continuing to build **DeroMC Ranked BedWars** into a polished and active competitive Minecraft community.
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=it1levonia&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it1levonia&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=it1levonia&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=it1levonia&theme=redical&hide_border=true&area=true" />
+
+<
